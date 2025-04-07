@@ -1,0 +1,1 @@
+This repository showcases a personal portfolio, built using HTML and CSS. The website contains a landing page, an about page and a contact page leveraging interactive design elements and an user friendly interface.
